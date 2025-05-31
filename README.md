@@ -1,6 +1,6 @@
 # Image Processing System
 
-A system to efficiently process image data from CSV files, compress images, and generate output reports.
+A system to efficiently process image data from CSV files, compress images, and generate output reports and analyzes digital images using various algorithms and techniques. The core goal is to enhance image quality, extract meaningful information, and automate image-based tasks. 
 
 ## Features
 
