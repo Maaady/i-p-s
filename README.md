@@ -1,11 +1,8 @@
 # Image Processing System
-[![TypeScript](https://img.shields.io/badge/JavaScript-5.5.3-blue.svg)](https://www.javascriptlang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-
-
+[![Next.js](https://img.shields.io/badge/Next.js-5.5.3-green.svg)](https://www.next.jslang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-5.5.3-yellow.svg)](https://www.node.jslang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-5.5.3-blue.svg)](https://www.reactlang.org/)
 
 A system to efficiently process image data from CSV files, compress images, and generate output reports and analyzes digital images using various algorithms and techniques. The core goal is to enhance image quality, extract meaningful information, and automate image-based tasks. 
 
